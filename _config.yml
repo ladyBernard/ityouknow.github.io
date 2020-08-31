@@ -147,6 +147,21 @@ navs:
     label: Archives
     target: _self
 
+  -
+    href: http://www.guoxue.com/
+    label: 国学网
+    target: _blank
+    subnav:
+
+      -
+        subHref: https://blogkaka.com/hongloumeng/
+        subLabel: 红楼梦专题网
+        target: _blank
+        
+      -
+        subHref: https://book.5ilog.com/cgi-bin/mz/hlm/
+        subLabel: 红楼大观
+        target: _blank
 
 
 # labels. my blog key words
