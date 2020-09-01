@@ -148,7 +148,7 @@ navs:
     target: _self
 
   -
-    href: /hongloudaguan.html
+    href: /test.html
     label: 红楼梦
     target: _blank
     subnav:
