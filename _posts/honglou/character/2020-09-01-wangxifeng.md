@@ -1,21 +1,15 @@
 ---
 layout: post
-title: 风月宝鉴
-category: life
+title: 王熙凤
+category: honglou-character
 no-post-nav: true
-tags: [life]
-excerpt: 红楼大观
+tags: [honglou-character]
+excerpt: 王熙凤
 ---
 
 ![](https://bkimg.cdn.bcebos.com/pic/b151f8198618367abd54d00922738bd4b21ce501?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxMTY=,g_7,xp_5,yp_5) 
 
-《红楼梦曲》是清代文学家曹雪芹创作的长篇小说《红楼梦》中的一组曲子。
-
-这组曲子见于《红楼梦》第五回，出现在贾宝玉的太虚幻境梦中，警幻仙子盛情邀请贾宝玉聆听十二位舞女的现场演唱。
-
-曲子共十四支，其中首支、末支分别为引子、收尾，中间十二支分咏小说中所谓的“金陵十二钗”正册人物，预示金陵十二钗的命运。
-
-这组曲子同金陵十二钗图册判词一样，为了解人物历史、情节发展以及四大家族的衰败覆灭提供了重要线索。
+王熙凤
 
 ## 1、红楼梦引子
 
