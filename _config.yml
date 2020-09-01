@@ -148,7 +148,7 @@ navs:
     target: _self
 
   -
-    href: /test.html
+    href: /hongloudaguan.html
     label: 红楼梦
     target: _blank
     subnav:
@@ -159,7 +159,7 @@ navs:
         target: _blank
         
       -
-        subHref: /spring-boot.html
+        subHref: /honglou-character.html
         subLabel: 红楼人物
         target: _blank
 
