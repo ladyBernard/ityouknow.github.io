@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 红楼人物系列文章
-titlebar: honglou-character
+titlebar: 红楼人物系列文章
 subtitle: 红楼人物
 menu: honglou-character
 css: ['blog-page.css']

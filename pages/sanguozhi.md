@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 三国志
-titlebar: sanguozhi
+titlebar: 三国志
 subtitle: 三国志
 menu: sanguozhi
 css: ['blog-page.css']

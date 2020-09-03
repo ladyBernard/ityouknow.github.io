@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 傅雷家书
-titlebar: fuleijiashu
+titlebar: 傅雷家书
 subtitle: 傅雷家书
 menu: fuleijiashu
 css: ['blog-page.css']

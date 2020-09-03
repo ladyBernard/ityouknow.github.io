@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 曾国藩家书
-titlebar: zengguofanjiashu
+titlebar: 曾国藩家书
 subtitle: 曾国藩家书
 menu: zengguofanjiashu
 css: ['blog-page.css']

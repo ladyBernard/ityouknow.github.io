@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 西游记大观
-titlebar: xiyoujidaguan
+titlebar: 西游记大观
 subtitle: 西游记大观
 menu: xiyoujidaguan
 css: ['blog-page.css']

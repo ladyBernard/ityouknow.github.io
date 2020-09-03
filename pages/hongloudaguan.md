@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 红楼大观系列文章
-titlebar: hongloudaguan
+titlebar: 红楼大观系列文章
 subtitle: 红楼大观
 menu: hongloudaguan
 css: ['blog-page.css']

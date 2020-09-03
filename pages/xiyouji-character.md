@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 西游记人物
-titlebar: xiyouji-character
+titlebar: 西游记人物
 subtitle: 西游记人物
 menu: xiyouji-character
 css: ['blog-page.css']

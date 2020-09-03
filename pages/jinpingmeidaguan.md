@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 金瓶梅大观系列文章
-titlebar: jinpingmeidaguan
+titlebar: 金瓶梅大观系列文章
 subtitle: 金瓶梅大观
 menu: jinpingmeidaguan
 css: ['blog-page.css']
