@@ -5,8 +5,8 @@
     <!-- Favicon Icon -->
     <link rel="shortcut icon" type="image/x-icon" href="/assets/images/{{ site.favicon }}">
 
-    <title>{% if page.titlebar %} {{ page.titlebar | escape }} - 纯洁的微笑博客 {% elsif page.title %}
-        {{ page.title | escape }} - 纯洁的微笑博客 {% else %}{{ site.title | escape }}{% endif %}</title>
+    <title>{% if page.titlebar %} {{ page.titlebar | escape }} - 此心安处是吾乡 {% elsif page.title %}
+        {{ page.title | escape }} - 此心安处是吾乡 {% else %}{{ site.title | escape }}{% endif %}</title>
     <meta name="keywords"
         content="{% if page.keywords %}{{ page.keywords | escape }}{% else %}{{ site.keywords }}{% endif %}">
     <meta name="description"
@@ -14,7 +14,7 @@
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}"
-        href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+        href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}">
 
     <!-- Third-Party CSS -->
     <link rel="stylesheet" href="http://favorites.ren/bower_components/bootstrap/dist/css/bootstrap.min.css">
