@@ -93,59 +93,59 @@ navs:
     href: /
     label: Home
 
-  -
-    href: /cartoon.html
-    label: Cartoon
-    target: _self
+  # -
+  #   href: /cartoon.html
+  #   label: Cartoon
+  #   target: _self
 
-  -
-    href: /spring-boot.html
-    label: Spring Boot
-    target: _self
-    subnav:
+  # -
+  #   href: /spring-boot.html
+  #   label: Spring Boot
+  #   target: _self
+  #   subnav:
 
-      -
-        subHref: /spring-boot.html
-        subLabel: Spring Boot
+  #     -
+  #       subHref: /spring-boot.html
+  #       subLabel: Spring Boot
 
-      -
-        subHref: /spring-cloud.html
-        subLabel: Spring Cloud
+  #     -
+  #       subHref: /spring-cloud.html
+  #       subLabel: Spring Cloud
 
-  -
-    href: http://www.justdojava.com
-    label: Java
-    target: _blank
-    subnav:
+  # -
+  #   href: http://www.justdojava.com
+  #   label: Java
+  #   target: _blank
+  #   subnav:
 
-      -
-        subHref: /java.html
-        subLabel: Jvm 系列文章
+  #     -
+  #       subHref: /java.html
+  #       subLabel: Jvm 系列文章
         
-      -
-        subHref: http://www.justdojava.com
-        subLabel: Java 极客技术
-        target: _blank
+  #     -
+  #       subHref: http://www.justdojava.com
+  #       subLabel: Java 极客技术
+  #       target: _blank
 
-  -
+  # -
     
-    href: /python.html
-    label: Python
-    subnav:
+  #   href: /python.html
+  #   label: Python
+  #   subnav:
 
-      -
-        subHref: /python.html
-        subLabel: Python 教程
+  #     -
+  #       subHref: /python.html
+  #       subLabel: Python 教程
         
-      -
-        subHref: http://www.justdopython.com
-        subLabel: Python 技术
-        target: _blank
+  #     -
+  #       subHref: http://www.justdopython.com
+  #       subLabel: Python 技术
+  #       target: _blank
 
-  -
-    href: /archives.html
-    label: Archives
-    target: _self
+  # -
+  #   href: /archives.html
+  #   label: Archives
+  #   target: _self
 
   -
     href: /hongloudaguan.html
@@ -161,6 +161,141 @@ navs:
       -
         subHref: /honglou-character.html
         subLabel: 红楼人物
+        target: _blank
+
+  -
+    href: /jinpingmei.html
+    label: 金瓶梅
+    target: _blank
+    subnav:
+
+      -
+        subHref: /jinpingmeidaguan.html
+        subLabel: 金瓶梅大观
+        target: _blank
+        
+      -
+        subHref: /jinpingmei-character.html
+        subLabel: 金瓶梅人物
+        target: _blank
+
+  -
+    href: /sanguo.html
+    label: 三国
+    target: _blank
+    subnav:
+
+      -
+        subHref: /sanguozhi.html
+        subLabel: 三国志
+        target: _blank
+        
+      -
+        subHref: /sanguo-character.html
+        subLabel: 三国英雄传
+        target: _blank
+
+  -
+    href: /xiyouji.html
+    label: 西游记
+    target: _blank
+    subnav:
+      
+
+      -
+        subHref: /xiyoujidaguan.html
+        subLabel: 西游记大观
+        target: _blank
+        
+      -
+        subHref: /xiyouji-character.html
+        subLabel: 西游记人物
+        target: _blank
+
+  -
+    href: /jiashu.html
+    label: 家书
+    target: _blank
+    subnav:
+
+      -
+        subHref: /zengguofanjiashu.html
+        subLabel: 曾国藩家书
+        target: _blank
+        
+      -
+        subHref: /fuleijiashu.html
+        subLabel: 傅雷家书
+        target: _blank
+
+  -
+    href: /psychology.html
+    label: 心理学
+    target: _blank
+    subnav:
+
+      -
+        subHref: /psychology-introduction.html
+        subLabel: 导论
+        target: _blank
+        
+      -
+        subHref: /social-psychology.html
+        subLabel: 社会心理学
+        target: _blank
+
+  -
+    href: /history.html
+    label: 历史
+    target: _blank
+    subnav:
+
+      -
+        subHref: /zizhitongjian.html
+        subLabel: 资治通鉴
+        target: _blank
+        
+      -
+        subHref: /mingshi.html
+        subLabel: 明史
+        target: _blank
+
+  -
+    href: /shige.html
+    label: 诗歌
+    target: _blank
+    subnav:
+
+      -
+        subHref: /poem.html
+        subLabel: 诗
+        target: _blank
+        
+      -
+        subHref: /ci.html
+        subLabel: 词
+        target: _blank
+
+
+      -
+        subHref: /qu.html
+        subLabel: 曲
+        target: _blank
+
+  -
+    href: /classics.html
+    label: 经典
+    target: _blank
+    subnav:
+
+      -
+        subHref: /bainiangudu.html
+        subLabel: 百年孤独
+        target: _blank
+        
+      -
+        subHref: /chalatusitela.html
+        subLabel: 查拉图斯特拉如是说
         target: _blank
 
 
