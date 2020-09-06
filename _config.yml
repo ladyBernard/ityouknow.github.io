@@ -186,8 +186,8 @@ navs:
     subnav:
 
       -
-        subHref: /sanguozhi.html
-        subLabel: 三国志
+        subHref: /sanguodaguan.html
+        subLabel: 三国大观
         target: _blank
         
       -
