@@ -189,7 +189,7 @@ navs:
         subHref: /sanguodaguan.html
         subLabel: 三国大观
         target: _blank
-        
+         
       -
         subHref: /sanguo-character.html
         subLabel: 三国英雄传
@@ -258,6 +258,11 @@ navs:
       -
         subHref: /mingshi.html
         subLabel: 明史
+        target: _blank
+
+      -
+        subHref: /shiyirenwu.html
+        subLabel: 失意人物
         target: _blank
 
   -
