@@ -4,7 +4,7 @@ title: 王熙凤
 category: honglou-character
 no-post-nav: true
 tags: [honglou-character]
-excerpt: 王熙凤
+excerpt: 红楼人物
 ---
 
 ![](https://img0.baidu.com/it/u=936238793,3237833152&fm=26&fmt=auto&gp=0.jpg) 

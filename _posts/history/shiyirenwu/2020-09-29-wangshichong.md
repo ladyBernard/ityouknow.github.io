@@ -4,7 +4,7 @@ title: 王世充
 category: shiyirenwu
 no-post-nav: true
 tags: [shiyirenwu]
-excerpt: 王世充
+excerpt: 失意人物
 ---
 
 ![](https://img2.baidu.com/it/u=158349417,2219398061&fm=26&fmt=auto&gp=0.jpg) 

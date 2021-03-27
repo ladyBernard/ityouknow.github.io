@@ -4,7 +4,7 @@ title: 刘彭廖李刘魏杨传
 category: sanguo-character
 no-post-nav: true
 tags: [sanguo-character]
-excerpt: 刘彭廖李刘魏杨传
+excerpt: 三国英雄传
 ---
 
 ![](https://bkimg.cdn.bcebos.com/pic/58ee3d6d55fbb2fb3e65d9cb4a4a20a44723dc99?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg) 

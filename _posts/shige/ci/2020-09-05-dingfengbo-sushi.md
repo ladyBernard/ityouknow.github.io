@@ -4,7 +4,7 @@ title: 定风波·南海归赠王定国侍人寓娘
 category: ci
 no-post-nav: true
 tags: [ci]
-excerpt: 定风波·南海归赠王定国侍人寓娘
+excerpt: 词
 ---
 
 ![](https://img1.baidu.com/it/u=2660212521,1109478772&fm=26&fmt=auto&gp=0.jpg) 

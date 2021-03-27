@@ -4,7 +4,7 @@ title: 点绛唇·闲倚胡床
 category: ci
 no-post-nav: true
 tags: [ci]
-excerpt: 点绛唇·闲倚胡床
+excerpt: 词
 ---
 
 ![](https://img0.baidu.com/it/u=2315126999,3653349638&fm=26&fmt=auto&gp=0.jpg) 
