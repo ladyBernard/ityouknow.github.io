@@ -7,7 +7,7 @@ tags: [bainiangudu]
 excerpt: 百年孤独
 ---
 
-![]() 
+![](https://img1.baidu.com/it/u=3139546751,3964005888&fm=26&fmt=auto&gp=0.jpg) 
 
 **百年孤独**
 

@@ -7,7 +7,7 @@ tags: [ci]
 excerpt: 点绛唇·闲倚胡床
 ---
 
-![](https://bkimg.cdn.bcebos.com/pic/14ce36d3d539b6009da99748ee50352ac75cb7ee?x-bce-process=image/resize,m_lfit,w_268,limit_1) 
+![](https://img0.baidu.com/it/u=2315126999,3653349638&fm=26&fmt=auto&gp=0.jpg) 
 
 《点绛唇·闲倚胡床》是北宋文学家苏轼所作的一首词。此词是苏轼与好友袁公济畅游湖山时所作。
 

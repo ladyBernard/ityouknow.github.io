@@ -9,9 +9,9 @@
 title:  此心安处是吾乡
 subtitle: 此心安处是吾乡
 name: 此心安处 
-email: ityouknow@126.com
-description: 本站是纯洁的微笑的技术分享博客。内容涵盖生活故事、Java后端技术、Spring Boot、Spring Cloud、微服务架构、大数据演进、高可用架构、中间件使用、系统监控等相关的研究与知识分享。
-keywords: ityouknow,纯洁的微笑,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,Docker,生活故事,架构,大数据,一线,FastDFS,开发者,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,IT技术博客,Java,Python,
+email: 123456@126.com
+description: 本站是ladybernard的人文博客。内容涵盖历史，诗歌，经典。
+keywords: 红楼梦,金瓶梅,三国,西游记,家书,心理学,历史,诗歌,经典,人文,园林,
 encoding: "utf-8"
 favicon: favicon.ico 
 
@@ -301,6 +301,11 @@ navs:
       -
         subHref: /chalatusitela.html
         subLabel: 查拉图斯特拉如是说
+        target: _blank
+
+      -
+        subHref: /suiji.html
+        subLabel: 随记
         target: _blank
 
 

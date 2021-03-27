@@ -7,7 +7,7 @@ tags: [ci]
 excerpt: 定风波·南海归赠王定国侍人寓娘
 ---
 
-![](https://bkimg.cdn.bcebos.com/pic/b151f8198618367a65fe091225738bd4b21ce58e) 
+![](https://img1.baidu.com/it/u=2660212521,1109478772&fm=26&fmt=auto&gp=0.jpg) 
 
 
 ## 定风波·南海归赠王定国侍人寓娘

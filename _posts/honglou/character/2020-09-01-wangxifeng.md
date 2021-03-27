@@ -7,7 +7,7 @@ tags: [honglou-character]
 excerpt: 王熙凤
 ---
 
-![](https://baike.baidu.com/pic/%E7%8E%8B%E7%86%99%E5%87%A4/2466327/1/10dfa9ec8a13632762d080460ac6b7ec08fa513d6926?fr=lemma&ct=single) 
+![](https://img0.baidu.com/it/u=936238793,3237833152&fm=26&fmt=auto&gp=0.jpg) 
 
 王熙凤
 

@@ -7,7 +7,7 @@ tags: [shiyirenwu]
 excerpt: 王世充
 ---
 
-![](https://bkimg.cdn.bcebos.com/pic/8694a4c27d1ed21b88a857d4ac6eddc451da3f99?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg) 
+![](https://img2.baidu.com/it/u=158349417,2219398061&fm=26&fmt=auto&gp=0.jpg) 
 
 王世充-隋唐
 

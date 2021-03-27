@@ -7,7 +7,7 @@ tags: [sanguo-character]
 excerpt: 刘彭廖李刘魏杨传
 ---
 
-![](https://bkimg.cdn.bcebos.com/pic/58ee3d6d55fbb2fb3e65d9cb4a4a20a44723dc99?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U5Mg==,g_7,xp_5,yp_5) 
+![](https://bkimg.cdn.bcebos.com/pic/58ee3d6d55fbb2fb3e65d9cb4a4a20a44723dc99?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg) 
 
 《三国志》卷四十《蜀书》卷十《刘彭廖李刘魏杨传》，是蜀汉政权中**失意人物**的一组和传。
 
